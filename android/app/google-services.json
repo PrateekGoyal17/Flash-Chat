@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582848013834",
+    "project_id": "flash-chat-6b652",
+    "storage_bucket": "flash-chat-6b652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582848013834:android:e0e42683cd5aba126a21f3",
+        "android_client_info": {
+          "package_name": "com.prateekgoyal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582848013834-1j30dv6bd3v2k1qasigdko55h4g0phlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQr-xXA99KJRMplR-S2foi7-diev3CLFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582848013834-1j30dv6bd3v2k1qasigdko55h4g0phlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
